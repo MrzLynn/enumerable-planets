@@ -1,9 +1,9 @@
 package org.launchcode.enumerableplanets.data;
 
 public enum Planets {
-    Mercury("Mercury"),
-    Venus("Venus"), Earth("Earth"), Mars("Mars"), Jupiter("Jupiter"),
-    Saturn("Saturn"), Uranus("Uranus"), Neptune("Neptune"), Pluto("Pluto");
+    MERCURY("Mercury"),
+    VENUS("Venus"), EARTH("Earth"), MARS("Mars"), JUPITER("Jupiter"),
+    SATURN("Saturn"), URANUS("Uranus"), NEPTUNE("Neptune"), PLUTO("Pluto");
 
 
 
